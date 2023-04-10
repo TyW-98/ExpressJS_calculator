@@ -2,7 +2,7 @@
   "name": "calculator_expressjs",
   "version": "1.0.0",
   "description": "Basic calculator using express.js",
-  "main": "calculator.js",
+  "main": "script\\calculator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

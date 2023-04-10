@@ -1,0 +1,23 @@
+{
+  "name": "calculator_expressjs",
+  "version": "1.0.0",
+  "description": "Basic calculator using express.js",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyW-98/ExpressJS_calculator.git"
+  },
+  "author": "TyW-98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TyW-98/ExpressJS_calculator/issues"
+  },
+  "homepage": "https://github.com/TyW-98/ExpressJS_calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
